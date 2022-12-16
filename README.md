@@ -1,6 +1,6 @@
 # Interactive card details form
 
-![Interactive card details form](./results/portfolio_28.png)
+![Interactive card details form](./results/desktop.png)
 
 ## SKILLS
 
